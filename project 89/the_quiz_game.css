@@ -1,0 +1,119 @@
+body
+{
+	background-image: url("https://cdn.hipwallpaper.com/i/75/53/0cFvKO.jpg");
+}
+
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 15px;
+		float: none;
+		border-radius: 17px;
+		width: 40%;
+		height: 160px;
+		background-color: rgb(3, 255, 247);
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 3px;
+	color: rgb(0, 30, 255);
+	font-weight: bold;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+	background: white;
+	border-radius: 10px;
+	border-top: 10px solid #AA4465;
+	padding: 10px;
+	float: none;
+	text-align: left;
+}
+h1{
+	color: orange;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h3{
+	font-family: 'Lora', serif;
+	color: teal;
+}
+#username{
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	color: turquoise;
+}
+button{
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+
+#number_1,#number_2
+{
+	color: tomato;
+	font-weight: bold;
+}
+h4{
+	color: rgb(52, 239, 208);
+	font-family: 'Akaya Kanadaka', cursive;
+	width: 100px;
+}
+
+body
+{
+	background-color: chartreuse;
+}
+
+.form-control
+{
+    
+        transition: .3s ease
+        
+}
+
+.form-control:hover
+{
+    transform: scale(0.2);
+   
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.3)
+
+}
+
+h2
+{
+	font-weight: bolder;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.login_div1
+{
+	transition: .3s ease
+}
+.login_div1:hover
+{
+	transform: scale(0.2);
+   
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.3)
+}
+
+.login_div2
+{
+	transition: .3s ease
+}
+.login_div2:hover
+{
+	transform: scale(0.2);
+   
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.3)	
+}
